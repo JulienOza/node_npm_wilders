@@ -1,0 +1,28 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "Display 4 Wilders Name in color using Chalk package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulienOza/node_npm_wilders.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulienOza/node_npm_wilders/issues"
+  },
+  "homepage": "https://github.com/JulienOza/node_npm_wilders#readme",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
